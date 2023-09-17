@@ -30,5 +30,3 @@ Se você tiver alguma dúvida sobre minhas experiências, tecnologias ou minha e
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
             
 </div>
-
-![Snake animation](https://github.com/andreFnicacio/andreFnicacio/blob/output/github-contribution-grid-snake.svg)
