@@ -8,7 +8,7 @@ Sou um desenvolvedor back-end com paixão por automação e inteligência artifi
 
 - 🚀 **Lifepet (2023-Presente):** Iniciei um novo desafio na Lifepet, onde desempenhei um papel fundamental no desenvolvimento do plano de saúde PetPremium. Utilizei microserviços e integrei Python para análise e automação com Node.js para criar funcionalidades robustas. Minha experiência com a AWS foi crucial na implementação de soluções em nuvem ao longo da minha carreira, começando em 2019.
 
-Além disso, tenho ampla experiência em trabalhar com vários serviços da AWS, como por exemplo Lambda, Gateway, S3, EC2, IAM, DynamoDB.
+Além disso, tenho ampla experiência em trabalhar com vários serviços da AWS, como por exemplo Lambda, Gateway, S3, EC2, IAM, DynamoDB. ☁️
 
 Se você tiver alguma dúvida sobre minhas experiências, tecnologias ou minha expertise na AWS, sinta-se à vontade para entrar em contato!
 
