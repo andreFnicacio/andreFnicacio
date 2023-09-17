@@ -1,6 +1,6 @@
 ### André Nicácio - Dev Backend, Python RPA, NodeJS, AWS 🎒
 
-Sou um desenvolvedor back-end com paixão por automação e inteligência artificial. Deixe-me compartilhar minha jornada com você:
+Sou um desenvolvedor back-end com paixão por automação e inteligência artificial. Deixe-me compartilhar minha jornada com você: 
 
 - 🤖 **Udna (2020-2022):** Na Udna, tive a oportunidade de trabalhar em um projeto empolgante chamado AI Ursula. Aprofundei-me em aprendizado de máquina e desenvolvi um sistema de inteligência artificial que podia detectar possíveis doenças com base na rotina das pessoas e nos hábitos alimentares.
 
