@@ -6,11 +6,11 @@ Sou um desenvolvedor back-end com paixão por automação e inteligência artifi
 
 - 💼 **Sofie (2022-2023):** Entrar na Sofie foi o próximo passo em minha carreira. Aqui, concentrei-me em desenvolver pontos de extremidade e microserviços para modelos de negócios financeiros como Pagarme e PagSeguro. Além disso, criei um bot analítico do zero usando Node.js e Python. Esse bot se integrou perfeitamente às operações e à administração da empresa, fornecendo soluções rápidas e escalando interações com os usuários.
 
-- 🚀 **Lifepet (2023):** Iniciei um novo desafio na Lifepet, onde desempenhei um papel fundamental no desenvolvimento do plano de saúde PetPremium. Utilizei microserviços e integrei Python para análise e automação com Node.js para criar funcionalidades robustas. Minha experiência com a AWS foi crucial na implementação de soluções em nuvem ao longo da minha carreira, começando em 2019.
+- 🚀 **Lifepet (2023):** Iniciei um novo desafio na Lifepet, onde desempenhei um papel fundamental no desenvolvimento do plano de saúde PetPremium. Utilizei microserviços e integrei Python para análise e automação com Node.js para criar funcionalidades robustas.
 
-Além disso, tenho ampla experiência em trabalhar com vários serviços da AWS, como por exemplo Lambda, Gateway, S3, EC2, IAM, DynamoDB. ☁️
+Além disso, tenho experiência em trabalhar com vários serviços da AWS, como por exemplo Lambda, Gateway, S3, EC2, IAM, DynamoDB. ☁️
 
-Se você tiver alguma dúvida sobre minhas experiências, tecnologias ou minha expertise na AWS, sinta-se à vontade para entrar em contato!
+Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato!
 
 <div> 
   <a href = "https://x.gd/VOYnp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
