@@ -49,6 +49,11 @@ I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and M
 
 ---
 
+## 📢 Featured In
+<div> 
+  <a href="https://iftm.edu.br/noticias/2024/12/12/discente-do-iftm-campus-ituiutaba-conquistou-mais-que-um-premio-no-hackathon-iftm-2024/" target="_blank">Discente do IFTM Campus Ituiutaba conquistou mais que um prêmio no Hackathon IFTM 2024 – Highlighted for winning multiple awards at the IFTM Hackathon 2024, showcasing my technological solutions</a> 
+</div>
+
 ## ☁️ Skills & Tools
 
 * **Languages:** Python, JavaScript/TypeScript (NodeJS)
