@@ -1,28 +1,74 @@
-### André Nicácio - Backend Developer, Python RPA, NodeJS, AWS 🎒
+# André Nicácio – Backend Developer | Python RPA | NodeJS | AWS 🎒
 
-I am a back-end developer with a passion for automation and artificial intelligence. Let me share my journey with you:
+I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and Machine Learning. Here’s a quick look at my journey:
 
-- 🤖 **Udna (2020-2022):** At Udna, I had the opportunity to work on an exciting project called AI Ursula. I delved into machine learning and developed an AI system that could detect potential diseases based on people's routines and eating habits.
+---
 
-- 💼 **Sofie (2022-2023):** Joining Sofie was the next step in my career. Here, I focused on developing endpoints and microservices for financial business models like Pagarme and PagSeguro. Additionally, I created an analytical bot from scratch using Node.js and Python. This bot seamlessly integrated with the company's operations and administration, providing quick solutions and scaling user interactions.
+## 🚀 Professional Experience
 
-- 🚀 **Lifepet (2023):** I embarked on a new challenge at Lifepet, where I played a key role in developing the PetPremium health plan. I utilized microservices and integrated Python for analysis and automation with Node.js to create robust functionalities.
+### MLOps & AI Engineer @ Collegia
 
-- 🔧 **Agenus (2023-Present):** At Agenus, I am focused on implementing advanced automation with artificial intelligence and robots. I develop efficient chatbots for client interaction, robust APIs for service management, and scalable microservice architectures, leveraging Python, NodeJS, Docker, Kubernetes, and AWS to optimize processes and enhance system efficiency.
+**Feb 2025 – Present | London, UK**
 
-I also have experience working with various AWS services, such as Lambda, Gateway, S3, EC2, IAM, and DynamoDB. ☁️
+* Designing and scaling AI agents infrastructure with LangGraph, FastAPI & Kubernetes
+* Automating ML pipelines, monitoring and CI/CD on AWS
+* Ensuring reliability and peak performance in production ML systems
 
-If you have any questions, feel free to contact me!
+### Data Scientist @ biofy Technologies
+
+**2024 – Feb 2025** | Uberlândia, MG, Brazil\*\*
+
+* Researched and developed AI models for strategic business solutions
+* Implemented MLOps on OCI: data/version control, CI/CD and scalable infra
+* Tuned models for production and validated large-scale performance
+
+### Backend Developer @ Agenus
+
+**2023 –  2024**
+
+* Built advanced automation with bots & robots, robust APIs and microservices
+* Technologies: Python, NodeJS, Docker, Kubernetes, AWS (Lambda, API Gateway, S3, EC2, IAM, DynamoDB)
+
+### PetPremium Health Plan @ Lifepet
+
+**2023**
+
+* Developed microservices & integrations (Python + Node.js) for the pet health-plan product
+
+### Analytical Bot & Microservices @ Sofie
+
+**2022 – 2023**
+
+* Created financial endpoints (Pagar.me, PagSeguro) and an analytical bot from scratch (Node.js + Python)
+
+### AI Ursula Project @ Udna
+
+**2020 – 2022**
+
+* Developed an ML system to detect potential diseases based on routines & eating habits
+
+---
+
+## ☁️ Skills & Tools
+
+* **Languages:** Python, JavaScript/TypeScript (NodeJS)
+* **Infra & DevOps:** Docker, Kubernetes, Terraform, Cloud (GCP, AWS, Oracle)
+* **MLOps & AI:** GenAI, LangGraph, Langchain,FastAPI, spaCy, Qdrant, RAG, CI/CD pipelines, RNN
+* **Automation & RPA:** Selenium, Playwright, Python scripting for repetitive tasks
+
 
 <div> 
-  <a href="https://x.gd/VOYnp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-nic%C3%A1cio-653b7a171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <!-- FastAPI :contentReference[oaicite:6]{index=6} -->
+  <img align="center" alt="LangChain" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" /> <!-- LangChain não nativo, mas existe no repo devicon.json :contentReference[oaicite:7]{index=7} -->
+  <img align="center" alt="spaCy" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spacy.svg" /> <!-- spaCy via Simple Icons :contentReference[oaicite:8]{index=8} -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
+     alt="Kubernetes" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg"
+     alt="scikit-learn" height="30" width="40"/>
+  <img align="center" alt="Qdrant" height="30" width="40" src="https://qdrant.tech/assets/logo/qdrant-full-color.svg" /> <!-- Qdrant Official :contentReference[oaicite:9]{index=9} -->
 </div>
+
