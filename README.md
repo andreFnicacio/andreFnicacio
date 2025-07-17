@@ -61,16 +61,43 @@ I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and M
   <a href="https://www.linkedin.com/in/andr%C3%A9-nic%C3%A1cio-653b7a171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div style="display: inline_block"><br>
-  <!-- Existing stack icons -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- Kubernetes -->
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <!-- ML frameworks -->
-  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-plain.svg">
-  <img align="center" alt="scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg">
-  <img align="center" alt="PyTorch"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+<div style="display:inline-block"><br>
+  <!-- Languages & Core Tools -->
+  <img align="center" alt="JavaScript" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Python"     height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <!-- DevOps & Infra -->
+  <img align="center" alt="Docker"     height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="Kubernetes" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Terraform"  height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" />
+  <!-- Cloud -->
+  <img align="center" alt="AWS"        height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="GCP"        height="30" width="40"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlecloud.svg" /> <!-- https://simple-icons.org/ -->  
+  <img align="center" alt="Oracle"     height="30" width="40"
+       src="https://techicons.dev/icons/oracle.svg" />
+  <!-- MLOps & AI -->
+  <img align="center" alt="FastAPI"    height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="LangChain"  height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" />
+  <img align="center" alt="TensorFlow" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-plain.svg" />
+  <img align="center" alt="spaCy"      height="30" width="40"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spacy.svg" />
+  <img align="center" alt="Qdrant"     height="30" width="40"
+       src="https://qdrant.tech/assets/logo/qdrant-full-color.svg" />
+  <!-- Automation & RPA -->
+  <img align="center" alt="Selenium"   height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="Playwright" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" />
 </div>
+
 
 
