@@ -62,13 +62,15 @@ I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and M
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> <!-- FastAPI :contentReference[oaicite:6]{index=6} -->
-  <img align="center" alt="LangChain" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" /> <!-- LangChain não nativo, mas existe no repo devicon.json :contentReference[oaicite:7]{index=7} -->
-  <img align="center" alt="spaCy" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spacy.svg" /> <!-- spaCy via Simple Icons :contentReference[oaicite:8]{index=8} -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
-     alt="Kubernetes" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg"
-     alt="scikit-learn" height="30" width="40"/>
-  <img align="center" alt="Qdrant" height="30" width="40" src="https://qdrant.tech/assets/logo/qdrant-full-color.svg" /> <!-- Qdrant Official :contentReference[oaicite:9]{index=9} -->
+  <!-- Existing stack icons -->
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!-- Kubernetes -->
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  <!-- ML frameworks -->
+  <img align="center" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-plain.svg">
+  <img align="center" alt="scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-plain.svg">
+  <img align="center" alt="PyTorch"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 </div>
+
 
