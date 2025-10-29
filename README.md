@@ -14,6 +14,14 @@ I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and M
 * Automating ML pipelines, monitoring and CI/CD on AWS
 * Ensuring reliability and peak performance in production ML systems
 
+### Tech Lead | Data Science @ Cognitivo AI
+
+** Aug 2025 – Present | São Paulo, Brazil (Remote)
+
+* Leading MLOps initiatives in the AWS cloud, developing and operating AI systems applied to language models and intelligent agents
+* Automating machine learning pipelines and integrating LLMs into production environments
+* Ensuring scalability, observability, and security for high-performance AI applications
+  
 ### Data Scientist @ biofy Technologies
 
 **2024 – Feb 2025** | Uberlândia, MG, Brazil\*\*
