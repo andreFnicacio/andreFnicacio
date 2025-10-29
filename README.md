@@ -16,7 +16,7 @@ I’m a back-end developer obsessed with DevOps, automation, MLOps (GenAI) and M
 
 ### Tech Lead | Data Science @ Cognitivo AI
 
-**Aug 2025 – Present | São Paulo, Brazil (Remote)
+**Aug 2025 – Present | São Paulo, Brazil (Remote)**
 
 * Leading MLOps initiatives in the AWS cloud, developing and operating AI systems applied to language models and intelligent agents
 * Automating machine learning pipelines and integrating LLMs into production environments
